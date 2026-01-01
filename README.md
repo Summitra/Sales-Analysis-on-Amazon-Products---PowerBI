@@ -23,4 +23,4 @@ This dashboard enables 𝒅𝒂𝒕𝒂-𝒅𝒓𝒊𝒗𝒆𝒏 𝒅𝒆𝒄�
 
 Screenshots/Demo :
 
-Example : [Dashboard](https://github.com/Summitra/Superstore_Sales_Analysis_Powerbi/commit/1cc4428a6a57da219d34cc2b745bbb7eeff21e78)
+Example : [Dashboard](screenshot.PNG)
